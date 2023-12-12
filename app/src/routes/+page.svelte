@@ -32,11 +32,7 @@ import patamountains from '$lib/patamountains.svg';
         <a href="https://portal.faarlund.no/portal">Se</a>
       </div>
 
-      <div class="card">
-        <h2>Algdat</h2>
-        <p>Algoritmer og datastrukturer</p>
-        <a href="files/algdat.pdf">Se</a>
-      </div>
+    
     
     </div>  
 </div>
